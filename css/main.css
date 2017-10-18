@@ -37,8 +37,11 @@ div {
   padding-left: 1em;
   padding-right: 1em;
   margin-bottom: 1.5em;
-  border-radius: 10px;
   border-color: #666;
+}
+
+.btn {
+  border-radius: 10px;
 }
 
 body {
