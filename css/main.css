@@ -9,7 +9,8 @@ html {
 }
 
 img {
-
+  display: block;
+  width: auto;
 }
 
 div {
