@@ -36,6 +36,8 @@ p {
   display: inline-block;
   font-family: Lato, sans-serif;
   vertical-align: middle;
+  margin-left: .75em;
+  margin-right: .75em;
 }
 
 .btn {
