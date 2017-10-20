@@ -23,4 +23,5 @@ h2 {
 p {
   display: inline-block;
   font-family: Lato, sans-serif;
+  vertical-align: middle;
 }
