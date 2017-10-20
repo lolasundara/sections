@@ -11,6 +11,7 @@ img {
   display: block;
   text-align: center;
   margin: 0;
+  padding: .4em .75em .5em;
   vertical-align: middle;
   width: 100px;
 }
