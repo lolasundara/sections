@@ -8,7 +8,7 @@ html {
 }
 
 img {
-  display: inline-block;
+  display: block;
   text-align: center;
   margin: 0;
   vertical-align: middle;
