@@ -8,21 +8,27 @@ html {
 }
 
 img {
-  display: block;
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  vertical-align: middle;
   width: 100%;
 }
 
 h2 {
-  display: block;
+  display: inline-block;
   font-family: Lato, sans-serif;
   text-align: left;
+  max-width: 25em;
+  margin-top: 1.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 1.5em;
 }
 
 body {
   color: #333;
-  padding: .4em .75em .5em;
-  margin: 1.5rem;
-  text-align: center;
+  margin: 0;
 }
 
 p {
