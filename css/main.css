@@ -9,15 +9,18 @@ html {
 
 img {
   display: block;
-  padding: 1em;
-  margin: 1.5rem;
 }
 
 h2 {
   display: block;
   font-family: Lato, sans-serif;
-  text-align: left;
+}
+
+body {
   color: #333;
+  padding: .4em .75em .5em;
+  margin: 1.5rem;
+  text-align: center;
 }
 
 p {
