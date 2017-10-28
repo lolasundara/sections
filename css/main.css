@@ -10,9 +10,9 @@ html {
 img {
   display: block;
   text-align: center;
-  margin: 0;
-  padding-left: .4em;
-  padding-right: .4em;
+  margin left: 3rem;
+  margin-right: 3rem;
+  padding: 0;
   padding-top: 2em;
   vertical-align: middle;
   width: 100%;
