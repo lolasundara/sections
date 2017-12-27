@@ -62,19 +62,63 @@ p {
 @media only screen and (min-width: 38em) {
 
   img {
-    width: 350px;
+    width: 370px;
     margin-left: 7em;
   }
 
   h2 {
     margin-left: 5.5em;
+    color: #000;
+    margin-top: .75em;
+    margin-bottom: 1.25em;
   }
 
   p {
     margin-left: 8em;
+    color: #000;
+    margin-bottom: 1em;
+    margin-right: 7em;
   }
 
   .btn {
     margin-left: 8em;
   }
+}
+
+@media only screen and (min-width: 60em) {
+
+  body {
+    overflow: hidden;
+  }
+
+  img {
+    display: inline-block;
+    margin-left: 5em;
+    width: 40%;
+  }
+
+  figure {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    margin-left: 1em;
+  }
+
+  p {
+    margin-left: 1.5em;
+  }
+
+  .btn {
+    margin-left: 1.5em;
+  }
+
+  .content {
+    display: inline-block;
+    float: right;
+    width: 50%;
+    margin-top: -19.5em;
+  }
+
 }
