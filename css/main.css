@@ -9,22 +9,22 @@ html {
 
 img {
   display: block;
-  text-align: center;
-  margin left: 3rem;
-  margin-right: 3rem;
-  padding: 0;
-  padding-top: 2em;
-  vertical-align: middle;
   width: 100%;
+}
+
+figure {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 3em;
 }
 
 h2 {
   display: inline-block;
   font-family: Lato, sans-serif;
   text-align: left;
-  max-width: 25em;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-left: .75em;
+  font-weight: bold;
+  margin-bottom: 1em;
 }
 
 body {
@@ -32,13 +32,18 @@ body {
   margin: 0;
 }
 
+section {
+  max-width: 25em;
+}
+
 p {
   display: inline-block;
   font-family: Lato, sans-serif;
   vertical-align: middle;
-  margin-left: .75em;
-  margin-right: .75em;
+  margin-left: 1em;
+  margin-right: 1em;
   line-height: 1.5;
+  margin-top: 0;
 }
 
 .btn {
@@ -47,5 +52,6 @@ p {
   background-color: #eee9de;
   text-align: center;
   margin: 1.5em;
-  padding: 1em;
+  padding: .75em;
+  font-size: 1rem;
 }
